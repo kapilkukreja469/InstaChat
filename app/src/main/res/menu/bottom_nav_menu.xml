@@ -6,11 +6,6 @@
         android:icon="@android:drawable/ic_menu_add"
         android:title="chat" />
 
-    <item
-        android:id="@+id/navigation_call"
-        android:icon="@android:drawable/sym_action_call"
-        android:title="call" />
-
 
     <item
         android:id="@+id/navigation_profile"
